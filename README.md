@@ -1,11 +1,11 @@
-# 🚀 Cool Projects
+# ⭐ Cool Projects
 
-A collection of cool projects with animations, 3D models, and premium UI.
+A collection of small UI experiments where I try different **3D models, animations, creative layouts, and premium UI designs**.  
+These projects help me learn new things, explore modern UI ideas, and improve my frontend & 3D skills.
 
 ---
 
-## ⭐ Creative Hero Sections
+### 1. **Hat Hero Section (3D)**
 
-1. **3D Cake Hero Section**
-   🔗 <a href="https://cool-projects-rj.vercel.app/3d-cake-hero-section" target="_blank">Live</a>
-   📦 <a href="https://github.com/Rishabh-Jain-Rj/cool-projects/tree/main/src/projects/HeroSections/CakeHeroSection3D" target="_blank">Code</a>
+🔗 **Live:** <a href="https://cool-projects-rj.vercel.app/hat-hero-section-3d" target="_blank">View Demo</a>  
+ 📦 **Code & Docs:** <a href="https://github.com/Rishabh-Jain-Rj/cool-projects/tree/main/src/projects/HatHeroSection3D" target="_blank">View Source</a>
